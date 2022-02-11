@@ -1,5 +1,4 @@
-# Cpp-Questions
-Daily C++ Questions and Solutions!
+# C++ Questions
+Daily Practice
 
-# Sub header
-hey gri;s
+## Q1. _Cows and Bulls_
