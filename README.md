@@ -1,4 +1,4 @@
 # C++ Questions
-Daily Practice
+Daily Practice ### 30 Days of code.
 
-## Q1. _Cows and Bulls_
+## Q1. 28-02-2022 Data Types
